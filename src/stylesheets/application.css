@@ -5,3 +5,12 @@
 }
 
 /* TODO */
+
+canvas{
+  background-color: black;
+  margin: 10px;
+}
+
+#c{
+  display: none;
+}
